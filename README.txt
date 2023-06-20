@@ -1,5 +1,4 @@
 NAME       : DASARI SRINITH
-ROLL NO : CS21BTECH11015
 
 --> This is a README file for the Dissasembler code.
 --> The input is taken from a text file named (input.txt)
